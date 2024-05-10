@@ -1,1 +1,1 @@
-# Smart-Dustbin
+# Smart Waste Monitoring DUstbin.
